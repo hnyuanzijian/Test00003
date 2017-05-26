@@ -45,7 +45,5 @@ class Demo3
 		}else{
 			System.out.println("²¹¿¼..");
 		}
-		
-	
 	}
 }
